@@ -1,7 +1,7 @@
 # user-segmentation-kmeans
 
 
-1. Original Prompt
+#1. Original Prompt
 Input: "What is quantum mechanics please explain"
 2. Tokenization
 Process: Break the sentence into individual words or tokens.
